@@ -1,0 +1,45 @@
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #e2edff;
+}
+
+#skill {
+    padding-top: 2rem;
+    background-color: #e2edff;
+    padding-bottom: 8rem;   
+}
+
+.skill-container{
+    width: 100%;
+    background-color: #f3f3f3;
+}
+
+.skill{
+    padding: 10px;
+    text-align: right;
+    color: white;
+}
+
+.html{
+    background-color: #22d834;
+    width: 80%;
+}
+
+.css{
+    background-color: #b1c624;
+    width: 75%;
+}
+
+.js{
+    background-color: #00ff22;
+    width: 90%;
+}
+
+.cloud{
+    background-color: #22d834;
+    width: 80%;
+}
+section {
+    padding-top: 5rem;
+}
+
